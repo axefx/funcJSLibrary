@@ -1,0 +1,2 @@
+# funcJSLibrary
+functional javascript library
